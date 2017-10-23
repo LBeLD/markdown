@@ -10,7 +10,7 @@ With this React App user can enter GitHub-flavored Markdown on the left text are
 
 -[REACT](https://reactjs.org/)  
 -[BOOTSTRAP](http://getbootstrap.com/)  
--[SASS(http://sass-lang.com/)   
+-[SASS](http://sass-lang.com/)   
 -[GULP](https://gulpjs.com/)   
 -[MARKED](https://cdnjs.com/libraries/marked)
 
